@@ -1,8 +1,8 @@
 # Backprogation-Neural-Network
 
-# The dataset is from uci and has been clean and reduce
-
-# Here is the link of the original dataset : 
+# About the dataset
+The dataset is from uci and has been clean and reduce
+Here is the link of the original dataset : 
 http://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29#
 
 # The Neural Network Architecture 
