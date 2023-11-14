@@ -1,4 +1,4 @@
-# Backprogation-Neural-Network
+# Drug Consumption Score using Backprogation Neural Network
 
 # About the dataset
 The dataset is from uci and has been clean and reduce
